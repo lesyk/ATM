@@ -1,0 +1,32 @@
+/* 
+   Localizable.strings
+   LocalizationTest
+
+   Created by Juan Albero Sanchis on 02/03/10.
+   Copyright 2010 Aggressive Mediocrity. All rights reserved.
+ */
+
+"hello"            = "RUS";
+"descriptionLabel" = "Описание";
+"addressLabel"     = "Адрес";
+"phoneLabel"       = "Телефон";
+"back"             = "Назад";
+"find"             = "Найти";
+"language"         = "Язык";
+"label_sights"     = "Заголовок";
+"emer_text"        = "Экстренные номера";
+"police"           = "Милиция                                                 112    ";
+"ambulance"        = "Скорая помощь                                     112    ";
+"fire"             = "Пожарная служба                                112    ";
+"city"             = "Город";
+"distance"         = "Расстояние к";
+"tab_about_bank"   = "О банке";
+"tab_cashmachines" = "Банкоматы";
+"tab_bank_part"    = "Отделения";
+"tab_settings"     = "Настройки";
+"title_list_view"  = "Список банкоматов";
+"title_map"        = "Карта";
+"title_departments"= "Отделения";
+"title_about_bank" = "О банке";
+"cancel"           = "Отмена";
+"done"             = "Готово";

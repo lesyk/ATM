@@ -1,0 +1,33 @@
+/* 
+   Localizable.strings
+   LocalizationTest
+
+   Created by Juan Albero Sanchis on 02/03/10.
+   Copyright 2010 Aggressive Mediocrity. All rights reserved.
+ */
+
+"hello"            = "ENG";
+"descriptionLabel" = "Description";
+"addressLabel"     = "Address";
+"phoneLabel"       = "Phone";
+"back"             = "Back";
+"find"             = "Find";
+"language"         = "Language";
+"label_sights"     = "Header";
+"emer_text"        = "Emergency numbers";
+"police"           = "Police                                                  112    ";
+"ambulance"        = "Ambulance                                         112    ";
+"fire"             = "Fire                                                      112    ";
+"on_map"           = "on map";
+"city"             = "City";
+"distance"         = "Distance to";
+"tab_about_bank"   = "About bank";
+"tab_cashmachines" = "ATMS";
+"tab_bank_part"    = "Branches";
+"tab_settings"     = "Settings";
+"title_list_view"  = "List of ATMS";
+"title_map"        = "Map view";
+"title_departments"= "Branches";
+"title_about_bank" = "About Bank";
+"cancel"           = "Cancel";
+"done"             = "Done";
